@@ -8,9 +8,7 @@
 
 🎓 Eu estudo Gestão de Tecnologia da informação na UNESA
 
-👩‍💻 Atualmente estou procurando meu primeiro cargo na área de TI
-
-🔎 Também sou curioso sobre IA's
+👩‍💻 Atualmente estou trabalhando como analista de cybersec na AgileThought
 
 ✒️ Eu gosto de no meu tempo livre jogar
 
