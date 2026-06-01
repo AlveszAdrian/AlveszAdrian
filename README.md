@@ -3,13 +3,13 @@
 <h1>Adrian Vinicius Ferreira Alves</h1>
 
 <p>
-  <a href="https://linkedin.com/in/adrianvinicius"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/adrian-alvesz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://byteshift.com.br"><img src="https://img.shields.io/badge/ByteShift_Atlas-0f0f1a?style=for-the-badge&logoColor=white" alt="ByteShift"/></a>
-  <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
-  <a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB"/></a>
+  <a href="https://tryhackme.com/p/AlveszAdrian"><img src="https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+  <a href="https://app.hackthebox.com/profile/AlveszAdrian"><img src="https://img.shields.io/badge/Hack_The_Box-Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB"/></a>
 </p>
 
-<p><strong>Detection Engineer · SOC Engineer · Tool Developer · Founder @ ByteShift Atlas</strong></p>
+<p><strong>Detection Engineer · Security Researcher · Tool Developer · Founder @ ByteShift Atlas</strong></p>
 <p><sub>São Paulo, SP — Brasil</sub></p>
 
 </div>
@@ -18,28 +18,29 @@
 
 ### About
 
-Cybersecurity professional focused on detection engineering, SOC operations and security tool development. Founder of **ByteShift**, a consulting practice and product company — currently building **ByteShift Atlas**, a multi-tenant SaaS SOC platform with multi-SIEM integration, SOAR automation, and MITRE ATT&CK-based detection.
+Cybersecurity professional with a background spanning both offensive and defensive security. Founder of **ByteShift**, a consulting practice and product company — currently building **ByteShift Atlas**, a multi-tenant SaaS SOC platform with multi-SIEM integration, SOAR automation, and MITRE ATT&CK-based detection.
 
 Previously worked as **Endpoint Security Analyst at Santander Brasil** (via Motivus), operating CrowdStrike Falcon, Netskope, Cisco Umbrella, Trellix, Qualys and Splunk in a large-scale corporate environment.
 
-Beyond Blue Team — I also build tools and programs for cybersecurity: from detection engines and SIEM integrations to offensive automation and CTF tooling.
+Current focus is **offensive security** — red team operations, vulnerability analysis, exploitation, and building tools that bridge the gap between attack and defense.
 
 ---
 
 ### Skill focus areas
 
-```
-Detection Engineering  ████████████████████░░  90%
-Penetration Testing    ███████████████████░░░░  85%
-Tool & Platform Dev    ██████████████████░░░░░  80%
-SOC Operations         ████████████████░░░░░░░  72%
-Cloud Security         ██████████████░░░░░░░░░  65%
-DFIR                   █████████████░░░░░░░░░░  60%
-```
+<div align="center">
+  <img src="radar.svg" width="480" alt="Skill radar chart"/>
+</div>
 
 ---
 
 ### Tech stack
+
+**Offensive Security**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white)
 
 **SIEM & Detection**
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
@@ -91,26 +92,25 @@ DFIR                   █████████████░░░░░░
 
 | | Certification | Issuer |
 |---|---|---|
-| <img src="https://img.shields.io/badge/-blue?style=flat-square&logo=microsoft" width="16"/> | SC-200 Microsoft Security Operations Analyst | Microsoft |
+| <img src="https://img.shields.io/badge/-0078D4?style=flat-square&logo=microsoft&logoColor=white" width="16"/> | SC-200 Microsoft Security Operations Analyst | Microsoft |
 | <img src="https://img.shields.io/badge/-FF9900?style=flat-square&logo=amazonaws&logoColor=white" width="16"/> | AWS Certified Cloud Practitioner | AWS · valid Aug 2026 |
 | <img src="https://img.shields.io/badge/-212C42?style=flat-square&logo=tryhackme&logoColor=white" width="16"/> | Jr Penetration Tester | TryHackMe · Aug 2024 |
 | <img src="https://img.shields.io/badge/-049FD9?style=flat-square&logo=cisco&logoColor=white" width="16"/> | Junior Cybersecurity Analyst Career Path | Cisco · Jan 2024 |
 | <img src="https://img.shields.io/badge/-049FD9?style=flat-square&logo=cisco&logoColor=white" width="16"/> | Ethical Hacker | Cisco · Jan 2024 |
 | <img src="https://img.shields.io/badge/-049FD9?style=flat-square&logo=cisco&logoColor=white" width="16"/> | Endpoint Security | Cisco · Aug 2024 |
-| <img src="https://img.shields.io/badge/-000?style=flat-square" width="16"/> | Detection Engineering Course | SecDay · Feb 2025 |
-| <img src="https://img.shields.io/badge/-555?style=flat-square" width="16"/> | Cybersecurity Awareness CAPC | Certiprof · Aug 2024 |
+| <img src="https://img.shields.io/badge/-111111?style=flat-square" width="16"/> | Detection Engineering Course | SecDay · Feb 2025 |
+| <img src="https://img.shields.io/badge/-555555?style=flat-square" width="16"/> | Cybersecurity Awareness CAPC | Certiprof · Aug 2024 |
 
 ---
 
 ### CTF & Hacking labs
 
 ```
-TryHackMe   │  Top 3% global  ·  103+ rooms  ·  Jr Penetration Tester cert
-Hack The Box │  Easy machines: Silentium · Kobold · CCTV · WingData · Facts
-PortSwigger  │  Web Security Academy: Path Traversal ✓ · SQL Injection (in progress)
+TryHackMe    │  Top 3% global  ·  103+ rooms  ·  Jr Penetration Tester cert
+Hack The Box  │  Rank: Hacker  ·  Easy: Silentium · Kobold · CCTV · WingData · Facts
 ```
 
-Skills: recon · web exploitation · Linux privilege escalation · Active Directory · OSINT
+Skills: recon · web exploitation · Linux privilege escalation · Active Directory · OSINT · exploit dev
 
 ---
 
