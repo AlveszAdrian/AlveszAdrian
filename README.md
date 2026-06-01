@@ -5,8 +5,8 @@
 <p>
   <a href="https://www.linkedin.com/in/adrian-alvesz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://byteshift.com.br"><img src="https://img.shields.io/badge/ByteShift_Atlas-0f0f1a?style=for-the-badge&logoColor=white" alt="ByteShift"/></a>
-  <a href="https://tryhackme.com/p/AlveszAdrian"><img src="https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
-  <a href="https://app.hackthebox.com/profile/AlveszAdrian"><img src="https://img.shields.io/badge/Hack_The_Box-Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB"/></a>
+  <a href="https://tryhackme.com/p/Sanityz"><img src="https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+  <a href="https://app.hackthebox.com/users/51099"><img src="https://img.shields.io/badge/Hack_The_Box-Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB"/></a>
 </p>
 
 <p><strong>Detection Engineer · Security Researcher · Tool Developer · Founder @ ByteShift Atlas</strong></p>
