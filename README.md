@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Adrian Vinicius Ferreira Alves</h1>
+<h1>Adrian Alves</h1>
 
 <p>
   <a href="https://www.linkedin.com/in/adrian-alvesz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
