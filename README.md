@@ -114,7 +114,7 @@ Certified **CRTA (Certified Red Team Analyst)** — current focus is offensive s
 
 ```
 TryHackMe    │  Top 3% global  ·  103+ rooms  ·  Jr Penetration Tester cert
-Hack The Box  │  Rank: Hacker  ·  Machines: Silentium · Kobold · CCTV · WingData · Facts
+Hack The Box  │  Rank: Hacker  ·  Tier: Ruby Season 11 Top 2740 · CPTS in progress
 ```
 
 Skills: recon · web exploitation · API security · Linux privesc · Active Directory attacks · OSINT · lateral movement · WAF evasion
