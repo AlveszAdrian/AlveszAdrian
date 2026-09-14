@@ -123,15 +123,11 @@ Skills: recon · web exploitation · API security · Linux privesc · Active Dir
 
 ### Experience highlights
 
-```
-Santander Brasil (via Motivus)  │  SOC Analyst — Endpoint Security  │  Apr 2024 – Jul 2025
-                                 │  CrowdStrike · Trellix · Netskope · Qualys · Splunk
-                                 │  Incident response · Vulnerability management · ITSM
+**ByteShift Atlas** — Founder & Security Engineer · *Dec 2025 – Present*
+Building a multi-tenant SaaS SOC platform from scratch. Conducting authorized pentest engagements in Brazilian companies (web, API, infrastructure). Detection engineering, SOAR automation, cloud security and threat intelligence.
 
-ByteShift Atlas                  │  Founder & Security Engineer              │  Dec 2025 – Present
-                                 │  SOC platform · Pentest engagements · Detection engineering
-                                 │  SOAR automation · Cloud security · Threat intelligence
-```
+**Santander Brasil** (via Motivus) — SOC Analyst, Endpoint Security · *Apr 2024 – Jul 2025*
+Operated CrowdStrike Falcon, Trellix, Netskope, Cisco Umbrella, Qualys and Splunk in a large-scale financial environment. Incident response, vulnerability management and ITSM.
 
 ---
 
